@@ -3,9 +3,8 @@
 
 ### Notification
 You can read the **Nan DONG IEEEVR.pdf** file above to get the motivation, related work, methodology, experiments, and other details of the project.
-If you need to use the project, you will need the Bluetooth signal conversion files from GitHub and run them together with the VR game part. You can access the VR game part of the project through the link below.
+If you need to use the project, you will need the Bluetooth signal conversion files from GitHub and run them together with the VR game part.
 
 ### Link
 **Video Link:** https://vimeo.com/1026045745
 
-**VR-Game Projectfile.zip Download Link:** 
